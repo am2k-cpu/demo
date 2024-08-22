@@ -7,6 +7,9 @@ This is my first repository on the Github Acccount.
    - add
    - commit
    - push
-   - pull
-
-status
+   - git config --global user.email "am@growdeatech.com"
+   - git config --global user.name "am2k-cpu"
+   - git init
+   - git add .
+   - git status
+   - git commit -m "linux change"
